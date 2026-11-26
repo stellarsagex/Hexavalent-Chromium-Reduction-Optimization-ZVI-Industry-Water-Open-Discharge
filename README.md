@@ -13,12 +13,12 @@ Industrial corridors such as the **Birgunj–Pathlaiya industrial belt in Nepal*
 
 ### The Economic & Technological Bottleneck
 * **High Cost of Conventional Systems:** While advanced remediation technologies exist (such as ion-exchange resins, reverse osmosis, and automated chemical dosing plants), their high capital expenditure (CAPEX), continuous chemical costs, and energy demands make them financially unviable for small- and medium-scale enterprises (SMEs) struggling with tight profit margins.
-* **Premature Filter Failure:** Passive, low-cost permeable reactive barriers (PRBs) using Zero-Valent Iron offer an affordable alternative. However, real industrial wastewater contains competing background ions ($\text{SO}_4^{2-}$, $\text{HCO}_3^-$, $\text{Ca}^{2+}$, $\text{Mg}^{2+}$, $\text{PO}_4^{3-}$) that cause mineral precipitation, surface passivation, and pore clogging—leading to premature filter failure and wasted capital.
+* **Premature Filter Failure:** Passive, low-cost permeable reactive barriers (PRBs) using Zero-Valent Iron offer an affordable alternative. However, real industrial wastewater contains competing background ions ($\text{SO}_4^{2-}$, $\text{HCO}_3^-$, $\text{Ca}^{2+}$, $\text{Mg}^{2+}$, $\text{PO}_4^{3-}$) that cause mineral precipitation, surface passivation, and pore clogging - leading to premature filter failure and wasted capital.
 
 ### How This Research Helps
 1. **Virtual Prototyping Before Capital Investment:** Instead of expensive trial-and-error pilot plants, this digital twin predicts exact filter lifespan, clogging rates, and $\text{Cr(VI)}$ breakthrough times using specific local water chemistries.
 2. **Optimizing Low-Cost Material Mixes:** By identifying the exact Representative Elementary Volume (REV) and pore structure needed to prevent early passivation, industries can design cheaper, longer-lasting nZVI-sand composite filters.
-3. **Pathway to Resource Recovery:** Controlled reduction precipitates Cr(III) hydroxides and mixed Fe(III)-Cr(III) phases within the pore matrix. Mapping where and how these precipitates accumulate lays the groundwork for selective chromium sludge recovery and reuse in tanning or pigment manufacturing—turning a toxic liability into a recoverable resource.
+3. **Pathway to Resource Recovery:** Controlled reduction precipitates Cr(III) hydroxides and mixed Fe(III)-Cr(III) phases within the pore matrix. Mapping where and how these precipitates accumulate lays the groundwork for selective chromium sludge recovery and reuse in tanning or pigment manufacturing - turning a toxic liability into a recoverable resource.
 
 ---
 
