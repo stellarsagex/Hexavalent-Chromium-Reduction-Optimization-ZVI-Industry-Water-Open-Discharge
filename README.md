@@ -9,7 +9,7 @@ This repository contains a Python-based, JAX-accelerated pore-scale simulation f
 
 ## Why This Matters: Industrial Context & Impact (Birgunj, Nepal)
 
-Industrial corridors such as the **Birgunj–Pathlaiya industrial belt in Nepal** (home to numerous tanneries, electroplating units, textile dyeing factories, and metal-processing industries) face severe environmental and economic challenges regarding heavy metal wastewater discharge—specifically **Hexavalent Chromium ($\text{Cr(VI)}$)**.
+Industrial corridors such as the **Birgunj–Pathlaiya industrial belt in Nepal** (home to numerous tanneries, electroplating units, textile dyeing factories, and metal-processing industries) face severe environmental and economic challenges regarding heavy metal wastewater discharge - specifically **Hexavalent Chromium ($\text{Cr(VI)}$)**.
 
 ### The Economic & Technological Bottleneck
 * **High Cost of Conventional Systems:** While advanced remediation technologies exist (such as ion-exchange resins, reverse osmosis, and automated chemical dosing plants), their high capital expenditure (CAPEX), continuous chemical costs, and energy demands make them financially unviable for small- and medium-scale enterprises (SMEs) struggling with tight profit margins.
