@@ -1,0 +1,43 @@
+STEP 6.1 BATCH Cr(VI)-ZVI + PHREEQC SUMMARY
+============================================================
+Initial Cr(VI): 100 mg/L as Cr
+Initial pH imposed: 3
+Temperature: 31 C
+Batch volume: 0.05 L
+Reaction time: 120 min
+
+KINETICS
+Initial active area: 0.13 cm2 [provisional wool value]
+Final active area: 2.1841948e-05 cm2
+Final active-area fraction: 0.00016801499
+Final Cr(VI): 99.687088 mg/L
+Cr(VI) removal: 0.31291162 %
+Primary-route uptake: 0.02407127 mg/L
+Passivation-route uptake: 0.28884035 mg/L
+Maximum kinetic concentration-balance residual: 1.70530257e-13 mg/L
+
+IRON INVENTORY
+Initial Fe(0): 0.2796 g
+Fe(0) consumed: 1.6803712e-05 g
+Fe(0) remaining: 0.2795832 g
+
+BATCH CHROMIUM MASS BALANCE
+Initial Cr(VI) mass: 5 mg
+Final dissolved Cr(VI) mass: 4.9843544 mg
+Total Cr(VI) removed: 0.015645581 mg
+Mass-balance residual: -6.48092691e-15 mg
+
+PHREEQC
+PHREEQC snapshots: 241
+pH is imposed/fixed; this run does not predict pH drift.
+PHREEQC computes aqueous speciation and saturation indices.
+No solid phase is allowed to precipitate in this baseline run.
+Positive saturation index indicates thermodynamic supersaturation,
+not proof that precipitation occurred during the experiment.
+
+VALIDATION STATUS
+A numerical mass balance is not experimental validation.
+A run without measured concentration-time data is a forward run only.
+The 2014 steel-wool area is not the 2011 steel-plate area.
+Use the original experiment's area or fit only with independent
+experimental concentration-time data before claiming validation.
